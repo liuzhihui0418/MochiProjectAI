@@ -1,0 +1,54 @@
+{
+  "name": "frontend",
+  "main": "electron/main.cjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build && electron-builder",
+    "preview": "vite preview",
+    "electron": "concurrently \"npm run dev\" \"wait-on tcp:5174 && cross-env NODE_ENV=development electron .\""
+  },
+  "dependencies": {
+    "lucide-vue-next": "^0.555.0",
+    "vue": "^3.5.24"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/tsconfig": "^0.8.1",
+    "autoprefixer": "^10.4.22",
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.1.0",
+    "electron": "^39.2.5",
+    "electron-builder": "^26.0.12",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4",
+    "vue-tsc": "^3.1.4",
+    "wait-on": "^9.0.3"
+  },
+  "build": {
+    "appId": "com.mochi.ai",
+    "productName": "MochiAni",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "./resources/backend",
+        "to": "backend"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "public/favicon.ico"
+    }
+  }
+}

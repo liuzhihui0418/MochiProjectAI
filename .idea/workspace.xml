@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55841869-f99e-43af-a30a-a06133766afb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/MochiAni Setup 0.0.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/MochiAni Setup 0.0.0.exe.blockmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/builder-debug.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/builder-effective-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/LICENSE.electron.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/LICENSES.chromium.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/MochiAni.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/chrome_100_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/chrome_200_percent.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/dxcompiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/dxil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/ffmpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/icudtl.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/af.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/am.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ar.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/bg.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/bn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ca.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/cs.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/da.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/de.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/el.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/en-GB.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/en-US.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/es-419.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/es.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/et.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fa.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fil.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/gu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/he.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hu.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/id.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/it.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ja.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/kn.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ko.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/lt.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/lv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ml.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/mr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ms.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/nb.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/nl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pt-BR.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pt-PT.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ro.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ru.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sl.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sv.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sw.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ta.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/te.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/th.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/tr.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/uk.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ur.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/vi.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/zh-CN.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/zh-TW.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/app.asar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/backend/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/elevate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/snapshot_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/v8_context_snapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vk_swiftshader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vk_swiftshader_icd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vulkan-1.dll" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36OsdbtFrgmSRJxcT63TvDhX8Su" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DecryptorCore.executor": "Run",
+    "Python.gen_key.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/py/yunBaoProAi/MochiProjectAI/MochiProjectAI/frontend/resources/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\frontend\resources\backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app" />
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend" />
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DecryptorCore">
+    <configuration name="DecryptorCore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager_app/DecryptorCore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DecryptorCore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app\DecryptorCore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DecryptorCore" />
+        <item itemvalue="Python.DecryptorCore" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55841869-f99e-43af-a30a-a06133766afb" name="Changes" comment="" />
+      <created>1764889040425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764889040425</updated>
+      <workItem from="1764889045848" duration="24479000" />
+      <workItem from="1764935803731" duration="1951000" />
+      <workItem from="1764937787541" duration="2193000" />
+      <workItem from="1764940016973" duration="4890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MochiProjectAI$DecryptorCore.coverage" NAME="DecryptorCore Coverage Results" MODIFIED="1764936579098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manager_app" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$gen_key.coverage" NAME="gen_key Coverage Results" MODIFIED="1764936584077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$main.coverage" NAME="main Coverage Results" MODIFIED="1764893645487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+  </component>
+</project>
