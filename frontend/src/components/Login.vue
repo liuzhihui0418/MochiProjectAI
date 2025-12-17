@@ -1,11 +1,12 @@
 <template>
   <div class="login-body">
+
     <!-- 动态背景 -->
     <canvas ref="bgCanvas" id="bgCanvas"></canvas>
 
     <!-- 顶部导航 -->
     <nav class="navbar">
-      <a href="#" class="nav-logo">
+      <a href="" class="nav-logo">
         <i class="fa-solid fa-robot"></i>
         <span>YunManGongFangAI</span>
       </a>

@@ -4,89 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55841869-f99e-43af-a30a-a06133766afb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/MochiAni Setup 0.0.0.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/MochiAni Setup 0.0.0.exe.blockmap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/builder-debug.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/builder-effective-config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/LICENSE.electron.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/LICENSES.chromium.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/MochiAni.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/chrome_100_percent.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/chrome_200_percent.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/d3dcompiler_47.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/dxcompiler.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/dxil.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/ffmpeg.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/icudtl.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/libEGL.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/libGLESv2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/af.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/am.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ar.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/bg.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/bn.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ca.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/cs.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/da.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/de.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/el.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/en-GB.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/en-US.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/es-419.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/es.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/et.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fa.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fi.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fil.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/fr.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/gu.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/he.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hi.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hr.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/hu.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/id.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/it.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ja.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/kn.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ko.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/lt.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/lv.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ml.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/mr.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ms.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/nb.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/nl.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pl.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pt-BR.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/pt-PT.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ro.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ru.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sk.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sl.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sr.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sv.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/sw.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ta.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/te.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/th.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/tr.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/uk.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/ur.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/vi.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/zh-CN.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/locales/zh-TW.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/app.asar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/backend/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/resources/elevate.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/snapshot_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/v8_context_snapshot.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vk_swiftshader.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vk_swiftshader_icd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/release/win-unpacked/vulkan-1.dll" beforeDir="false" />
-    </list>
+    <list default="true" id="55841869-f99e-43af-a30a-a06133766afb" name="Changes" comment="完美测试现有功能   12.171" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +18,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -110,34 +34,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DecryptorCore.executor": "Run",
-    "Python.gen_key.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/py/yunBaoProAi/MochiProjectAI/MochiProjectAI/frontend/resources/backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DecryptorCore.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ai_server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.banana_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deepseek.executor&quot;: &quot;Run&quot;,
+    &quot;Python.download_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flashVsr_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jimeng.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mjtask.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/py/yunBaoProAi/MochiProjectAI/MochiProjectAI/backend/manager_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\py\\yunBaoProAi\\MochiProjectAI\\MochiProjectAI\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app" />
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\frontend\public" />
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\frontend\src\components" />
       <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\frontend\resources\backend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app" />
+      <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\routers" />
       <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend" />
       <recent name="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DecryptorCore">
-    <configuration name="DecryptorCore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.flashVsr_api">
+    <configuration name="ai_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MochiProjectAI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,12 +83,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager_app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager_app/DecryptorCore.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/ai_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DecryptorCore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="banana_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MochiProjectAI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app/bananaIamge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app\DecryptorCore.py" />
+      <option name="SCRIPT_NAME" value="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app\banana_images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deepseek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MochiProjectAI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +129,104 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\py\yunBaoProAi\MochiProjectAI\MochiProjectAI\backend\manager_app\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/deepseek.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/models/download_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flashVsr_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/flashVsr_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jimeng" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/jimeng.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MochiProjectAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/manager_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manager_app/mj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,9 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DecryptorCore" />
-        <item itemvalue="Python.DecryptorCore" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.flashVsr_api" />
+        <item itemvalue="Python.banana_images" />
+        <item itemvalue="Python.download_model" />
+        <item itemvalue="Python.ai_server" />
+        <item itemvalue="Python.jimeng" />
       </list>
     </recent_temporary>
   </component>
@@ -233,16 +264,177 @@
       <workItem from="1764889045848" duration="24479000" />
       <workItem from="1764935803731" duration="1951000" />
       <workItem from="1764937787541" duration="2193000" />
-      <workItem from="1764940016973" duration="4890000" />
+      <workItem from="1764940016973" duration="22179000" />
+      <workItem from="1764964801789" duration="104162000" />
+      <workItem from="1765143148363" duration="9942000" />
+      <workItem from="1765184587763" duration="79984000" />
+      <workItem from="1765356782315" duration="30669000" />
+      <workItem from="1765482975752" duration="39875000" />
+      <workItem from="1765620644769" duration="27306000" />
+      <workItem from="1765719627161" duration="59072000" />
+      <workItem from="1765955873850" duration="735000" />
     </task>
+    <task id="LOCAL-00001" summary="视频生成流程">
+      <option name="closed" value="true" />
+      <created>1765020821877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765020821877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="视频生成流程">
+      <option name="closed" value="true" />
+      <created>1765022016466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765022016466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分镜视频和字幕完善版21“50">
+      <option name="closed" value="true" />
+      <created>1765029093561</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765029093561</updated>
+    </task>
+    <task id="LOCAL-00004" summary="分镜视频和字幕完善版21“50更改main.py">
+      <option name="closed" value="true" />
+      <created>1765029725999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765029725999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更改炫酷样式">
+      <option name="closed" value="true" />
+      <created>1765040867558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765040867558</updated>
+    </task>
+    <task id="LOCAL-00006" summary="视频文案处理完成">
+      <option name="closed" value="true" />
+      <created>1765150731975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765150731975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="视频文案处理完成1">
+      <option name="closed" value="true" />
+      <created>1765151406353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765151406353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="图标修改">
+      <option name="closed" value="true" />
+      <created>1765201288288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765201288288</updated>
+    </task>
+    <task id="LOCAL-00009" summary="整体提交">
+      <option name="closed" value="true" />
+      <created>1765205191088</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765205191088</updated>
+    </task>
+    <task id="LOCAL-00010" summary="角色库功能上线">
+      <option name="closed" value="true" />
+      <created>1765321784986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765321784986</updated>
+    </task>
+    <task id="LOCAL-00011" summary="完美测试现有功能   12.13">
+      <option name="closed" value="true" />
+      <created>1765557139262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765557139262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="完美测试现有功能   12.17">
+      <option name="closed" value="true" />
+      <created>1765902028117</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765902028117</updated>
+    </task>
+    <task id="LOCAL-00013" summary="完美测试现有功能   12.18">
+      <option name="closed" value="true" />
+      <created>1765912081863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765912081863</updated>
+    </task>
+    <task id="LOCAL-00014" summary="完美测试现有功能   12.18">
+      <option name="closed" value="true" />
+      <created>1765912884613</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765912884613</updated>
+    </task>
+    <task id="LOCAL-00015" summary="完美测试现有功能   12.17">
+      <option name="closed" value="true" />
+      <created>1765956017596</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765956017596</updated>
+    </task>
+    <task id="LOCAL-00016" summary="完美测试现有功能   12.171">
+      <option name="closed" value="true" />
+      <created>1765956352853</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765956352853</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="视频生成流程" />
+    <MESSAGE value="分镜视频和字幕完善版21“50" />
+    <MESSAGE value="分镜视频和字幕完善版21“50更改main.py" />
+    <MESSAGE value="更改炫酷样式" />
+    <MESSAGE value="视频文案处理完成" />
+    <MESSAGE value="视频文案处理完成1" />
+    <MESSAGE value="图标修改" />
+    <MESSAGE value="整体提交" />
+    <MESSAGE value="角色库功能上线" />
+    <MESSAGE value="完美测试现有功能   12.13" />
+    <MESSAGE value="完美测试现有功能   12.18" />
+    <MESSAGE value="完美测试现有功能   12.17" />
+    <MESSAGE value="完美测试现有功能   12.171" />
+    <option name="LAST_COMMIT_MESSAGE" value="完美测试现有功能   12.171" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MochiProjectAI$mj.coverage" NAME="mj Coverage Results" MODIFIED="1765048163806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$deepseek.coverage" NAME="deepseek Coverage Results" MODIFIED="1765285962051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
     <SUITE FILE_PATH="coverage/MochiProjectAI$DecryptorCore.coverage" NAME="DecryptorCore Coverage Results" MODIFIED="1764936579098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manager_app" />
     <SUITE FILE_PATH="coverage/MochiProjectAI$gen_key.coverage" NAME="gen_key Coverage Results" MODIFIED="1764936584077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$download_model.coverage" NAME="download_model Coverage Results" MODIFIED="1765537213032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app/models" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$mjtask.coverage" NAME="mjtask Coverage Results" MODIFIED="1765048045541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$ai_server.coverage" NAME="ai_server Coverage Results" MODIFIED="1765489549110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$banana_images.coverage" NAME="banana_images Coverage Results" MODIFIED="1765739114528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app/bananaIamge" />
     <SUITE FILE_PATH="coverage/MochiProjectAI$main.coverage" NAME="main Coverage Results" MODIFIED="1764893645487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$flashVsr_api.coverage" NAME="flashVsr_api Coverage Results" MODIFIED="1765818100552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
+    <SUITE FILE_PATH="coverage/MochiProjectAI$jimeng.coverage" NAME="jimeng Coverage Results" MODIFIED="1765356869251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/manager_app" />
   </component>
 </project>
